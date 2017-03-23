@@ -1,4 +1,4 @@
-# Themes Mac OS X Terminal.app (mac-terminal-themes)
+# Mac OS X Terminal Themes (mac-terminal-themes)
 
 Themes/Profiles for Mac OS X Terminal.app for personal use.
 

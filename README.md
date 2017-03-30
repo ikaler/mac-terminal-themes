@@ -25,6 +25,10 @@ Add the following to your `~/.bash_profile`
 
 ![Screenshot](screenshots/DarkOne.png)
 
+### DarkOneAlt
+
+![Screenshot](screenshots/DarkOneAlt.png)
+
 ### DarkFun
 
 ![Screenshot](screenshots/DarkFun.png)
